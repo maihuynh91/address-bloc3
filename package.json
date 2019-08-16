@@ -1,0 +1,12 @@
+{
+  "name": "address-bloc3",
+  "version": "1.0.0",
+  "entry point": "app.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
